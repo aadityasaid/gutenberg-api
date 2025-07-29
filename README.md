@@ -2,7 +2,7 @@
 
 ### 1. Clone the Project
 
-git clone https://github.com/yourusername/gutenberg-api.git
+git clone https://github.com/aadityasaid/gutenberg-api.git
 cd gutenberg-api
 
 ### 2. Create & Activate Virtual Environment
